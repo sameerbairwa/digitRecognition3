@@ -24,7 +24,6 @@ It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwrit
 <p> I have used convolutional neural networks. I am using Tensorflow as the framework and Keras API for providing a high level of abstraction. </p>
 <h3> Architecture</h3>
 <p> CONV2D --> MAXPOOL --> CONV2D --> MAXPOOL -->FC -->Softmax--> Classification </p>
-<h3>Python Implementation</h3>
 <p>
 <h3>Python Implementation </h3>
 1.Dataset- MNIST dataset  <br>
@@ -34,4 +33,4 @@ It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwrit
 <h4>■ Training  :<h4>
 training data of mnist with 10 Epochs 
 <h4> ■ Test Set Size :<h4>test  data  of mnist  
- <h4>■ Accuracy: <h4> 98.730%  
+<h4>■ Accuracy: <h4> 98.730%  
